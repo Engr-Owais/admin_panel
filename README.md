@@ -5,10 +5,8 @@
   - **models/**: Data models used in the app.
   - **screens/**: UI screens and their respective logic.
   - **widgets/**: Reusable Flutter widgets.
-  - **services/**: Backend services like API calls.
   - **bloc/**: Business Logic Component for state management using `flutter_bloc`.
   - **repository/**: Data handling and manipulation logic.
-  - **utils/**: Utility functions and constants.
 
 - **assets/**: Static files like images, fonts, etc.
 - **test/**: Contains test cases for unit and widget testing.
