@@ -1,10 +1,24 @@
 # mytest
 
-A new Flutter project.
+## Project Overview
+- **lib/**: Contains all the Dart/Flutter source code.
+  - **models/**: Data models used in the app.
+  - **screens/**: UI screens and their respective logic.
+  - **widgets/**: Reusable Flutter widgets.
+  - **services/**: Backend services like API calls.
+  - **bloc/**: Business Logic Component for state management using `flutter_bloc`.
+  - **repository/**: Data handling and manipulation logic.
+  - **utils/**: Utility functions and constants.
 
-Data From: https://jsonplaceholder.typicode.com/
+- **assets/**: Static files like images, fonts, etc.
+- **test/**: Contains test cases for unit and widget testing.
 
-State Management: flutter_bloc 
+## Domain Driven Design (DDD)
+The project follows DDD principles, ensuring separation of concerns:
+- **domain/**: Entities, value objects, and business logic.
+- **application/**: Application logic, commands, queries.
+- **infrastructure/**: External APIs, database interactions.
+- **presentation/**: Flutter UI implementation.
 
 ## Getting Started
 
