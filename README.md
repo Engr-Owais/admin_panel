@@ -4,13 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Web Admin Panel With Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1437" alt="Screenshot 2024-09-01 at 8 51 44 PM" src="https://github.com/user-attachments/assets/643531f5-3f8a-4249-b57a-9edf6a37ff59">
+<img width="1435" alt="Screenshot 2024-09-01 at 8 51 54 PM" src="https://github.com/user-attachments/assets/63cac2be-e866-46eb-8ca1-e2ce6d22778e">
