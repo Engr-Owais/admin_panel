@@ -18,7 +18,7 @@ The project follows DDD principles, ensuring separation of concerns:
 - **infrastructure/**: External APIs, database interactions.
 - **presentation/**: Flutter UI implementation.
 
-## Getting Started
+## Screenshots
 
 Web Admin Panel With Flutter
 
