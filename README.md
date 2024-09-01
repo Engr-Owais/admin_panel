@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Data From: https://jsonplaceholder.typicode.com/
+
+State Management: flutter_bloc 
+
 ## Getting Started
 
 Web Admin Panel With Flutter
